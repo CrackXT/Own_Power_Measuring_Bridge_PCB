@@ -1,0 +1,2 @@
+# Own_Power_Measuring_Bridge_PCB
+Platzhalter
