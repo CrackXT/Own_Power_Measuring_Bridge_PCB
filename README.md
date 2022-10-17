@@ -1,2 +1,3 @@
 # Own_Power_Measuring_Bridge_PCB
-Platzhalter
+
+PCB files for Power Measuring Bridge 
