@@ -23,6 +23,8 @@ Bottom
 Routing/Dimensions(inch)
 ![PMB_v1 0](https://user-images.githubusercontent.com/88975406/204140037-f8cb5658-0c4c-4842-b807-cd926231d3ed.png)
 
+Schematic -> Schematic as .pdf at the top of the page.
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
